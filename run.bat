@@ -1,0 +1,1 @@
+cd C:\Users\PenedgeELC\Documents\nextprojects\portfolio && npm run dev
