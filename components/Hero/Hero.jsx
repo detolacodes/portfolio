@@ -19,7 +19,7 @@ const Hero = () =>{
 								I'm Detola Ogungbe
 							</h2>
 							<h5 className='mb-3'>
-								Full stack web developer & Graphic designer
+								Front end web developer & Graphic designer
 							</h5>
 							<p className=''>
 								Creator of mind-blowing digital contents that improves brands and drive sales regardless of the industry or sector in question
